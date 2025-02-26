@@ -7,6 +7,10 @@ Project and source are not public. Made with React-Native, TypeScript and Supaba
 ### Car Inspection App
 App which helps users to check necessary things of a car. Saves data to local SQLite and allows users to generate PDF from the data.
 
+
+https://github.com/user-attachments/assets/d8de6947-5a7f-4c5a-bf47-b23f8b45acaa
+
+
 Source code is not public.
 ### News App
 First mobile app done as a project for a course. Android app that fetches news from Yle RSS-feed and provides headlines and links to user.
