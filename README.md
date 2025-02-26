@@ -31,3 +31,5 @@ various scripts made for personal use
 
 ## Embedded projects
 [DHT-22 Raspberry server](https://github.com/sibe6/dht-22-reader)
+
+[MPL3115A2 driver](https://github.com/sibe6/MPL3115A2-driver-arduino)
